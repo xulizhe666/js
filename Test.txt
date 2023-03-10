@@ -1,0 +1,72 @@
+{
+  "status" : 0,
+  "data" : [
+    {
+      "shopName" : "念茶",
+      "orderShortNum" : 14,
+      "customerName" : "周浩",
+      "orderContent" : "[{\"title\":\"杨枝甘露+少冰\",\"number\":1,\"salePrice\":13.00}]",
+      "deliveryTime" : "17:12",
+      "orderCode" : "50230310595330003",
+      "refundStatus" : 0,
+      "refundStatusStr" : "",
+      "voiceButton" : 0,
+      "statusStr" : "待抢单",
+      "deliveryDate" : "2023-03-10",
+      "code" : "5001414620230310000514",
+      "customerAddress" : "华北电力大学保定二校区，二十舍222",
+      "oneClickDeliverySwitch" : 0,
+      "shopId" : 14146,
+      "customerTel" : "18819237280",
+      "orderComment" : "",
+      "status" : 1,
+      "orderGoods" : [
+        {
+          "title" : "杨枝甘露+少冰",
+          "number" : 1,
+          "salePrice" : 13
+        }
+      ]
+    },
+    {
+      "shopName" : "1958自选餐",
+      "orderShortNum" : 90,
+      "customerName" : "周浩",
+      "orderContent" : "[{\"title\":\"米饭\",\"number\":1,\"salePrice\":1.50},{\"title\":\"奥尔良煎鸡腿排\",\"number\":1,\"salePrice\":3.70},{\"title\":\"麻辣香锅\",\"number\":1,\"salePrice\":6.50}]",
+      "deliveryTime" : "18:05",
+      "orderCode" : "50230310627540003",
+      "refundStatus" : 0,
+      "refundStatusStr" : "",
+      "voiceButton" : 0,
+      "statusStr" : "待抢单",
+      "deliveryDate" : "2023-03-10",
+      "code" : "5001417820230310000590",
+      "customerAddress" : "华北电力大学保定二校区，二十舍222",
+      "oneClickDeliverySwitch" : 0,
+      "shopId" : 14178,
+      "customerTel" : "18819237280",
+      "orderComment" : "",
+      "status" : 1,
+      "orderGoods" : [
+        {
+          "title" : "米饭",
+          "number" : 1,
+          "salePrice" : 1.5
+        },
+        {
+          "title" : "奥尔良煎鸡腿排",
+          "number" : 1,
+          "salePrice" : 3.7000000000000002
+        },
+        {
+          "title" : "麻辣香锅",
+          "number" : 1,
+          "salePrice" : 6.5
+        }
+      ]
+    }
+  ],
+  "flag" : 1,
+  "msg" : "auto convert",
+  "result" : true
+}
