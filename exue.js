@@ -1,7 +1,7 @@
 /***
 [rewrite_local]
 
-https?:\/\/ele\.chng\.com\.cn\/api\/ams\/lms\/learnlesson\/userlearnlesson\/uploadLearnData url script-request-body https://github.com/xulizhe666/js/raw/main/exue.js
+https?:\/\/ele\.chng\.com\.cn\/api\/ams\/lms\/learnlesson\/userlearnlesson\/uploadLearnData url script-request-body https://raw.githubusercontent.com/xulizhe666/js/main/exue.js
 
 [mitm] 
 
