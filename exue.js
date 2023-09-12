@@ -12,6 +12,7 @@ let body = $request.body;
 
 body = body.replace("\"finished\":0", "\"finished\":1");
 body = body.replace("\"exitplaytime\":.*\,", "\"exitplaytime\":0\,");
+body = body.replace("\"learntime\":.*\,", "\"learntime\":100\,");
 console.log(body)
 
 $notify('成功修改', body, `1`)
