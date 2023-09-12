@@ -11,6 +11,7 @@ hostname = ele.chng.com.cn
 let body = $request.body;
 
 body = body.replace("\"finished\":0", "\"finished\":1");
+body = body.replace("\"learntime\":.*\,", "\"learntime\":600\,");
 console.log(body)
 
 $notify('成功修改', '已完成', `1`)
