@@ -14,5 +14,5 @@ body = body.replace("\"finished\":0", "\"finished\":1");
 body = body.replace("\"learntime\":.*\,", "\"learntime\":600.000\,");
 console.log(body)
 
-$notify('成功修改', '已完成', `1`)
+$notify('成功修改', body, `1`)
 $done({body});
