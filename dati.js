@@ -1,6 +1,6 @@
 /******************************
 [rewrite_local]
-^https?:\/\/api-xcx-qunsou\.weiyoubot\.cn\/xcx\/ques\/v3\/detail\?access_token.*  script-response-body http://192.168.31.244:5244/d/ben/dati.js?sign=tnuAITutpJbXQCDkbkfLhurdU4PN3cwC4zpUoEqTYrI=:0
+^https?:\/\/api-xcx-qunsou\.weiyoubot\.cn\/xcx\/ques\/v3\/detail\?access_token.*  script-response-body https://raw.githubusercontent.com/xulizhe666/js/refs/heads/main/dati.js
 [mitm]
 hostname = api-xcx-qunsou.weiyoubot.cn
 *******************************/
